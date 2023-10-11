@@ -1,8 +1,3 @@
-# Vidit Portfolio
-
-
-
-
 ## Project 1: Movie Recommendation System
 ##### Developed content based recommendation system that provides movie suggestions based on user preferences.
 * Merged two datasets of 4800 movies and dug out suitable features for our system and performed Data Preprocessing.
