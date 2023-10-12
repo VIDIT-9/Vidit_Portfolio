@@ -7,7 +7,7 @@ Developed content based recommendation system that provides movie suggestions ba
 
   
   <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com" target="_blank">
-    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png" width="890.4" height="500">
+    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png" width="890.4" height="450">
   </a>
 
 
@@ -32,5 +32,5 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
 
 
   <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes" target="_blank">
-    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/IPL.png" width="890.4" height="500">
+    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/IPL.png" width="1100" height="615">
   </a>
