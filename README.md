@@ -32,5 +32,5 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
 
 
   <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes" target="_blank">
-    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/IPL.png" width="1100" height="615">
+    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/IPL.png" width="550" height="300">
   </a>
