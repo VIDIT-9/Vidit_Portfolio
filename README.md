@@ -5,7 +5,8 @@ Developed content based recommendation system that provides movie suggestions ba
 * Model was trained to find top-5 similar movies on the basis of distances between each vectors using Cosine similarity.
 * Created a basic Web application with user-friendly interface for enhanced user interaction using Streamlit.
 
-[![](/Images/MRS.png)](https://movies-recommendation-system-bbcd81475afd.herokuapp.com)
+
+  [![](/Images/MRS.png)](https://movies-recommendation-system-bbcd81475afd.herokuapp.com)
 
 
 
