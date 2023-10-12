@@ -7,7 +7,7 @@ Developed content based recommendation system that provides movie suggestions ba
 
   
   <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com" target="_blank">
-    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png" width="890.4" height="450">
+    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png" width="445" height="225">
   </a>
 
 
@@ -21,7 +21,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 
 
   <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/" target="_blank">
-    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/Portfolio.png" width="890.4" height="500">
+    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/Portfolio.png" width="445" height="250">
   </a>
 
 ## Project 3: [Data Analysis on IPL](https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD)
