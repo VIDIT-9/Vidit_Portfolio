@@ -5,6 +5,7 @@ Developed content based recommendation system that provides movie suggestions ba
 * Model was trained to find top-5 similar movies on the basis of distances between each vectors using Cosine similarity.
 * Created a basic Web application with user-friendly interface for enhanced user interaction using Streamlit.
 
+  
   [![](/Images/MRS.png)](https://movies-recommendation-system-bbcd81475afd.herokuapp.com)
 
 
@@ -16,7 +17,8 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 * Employed Monte Carlo algorithm as it is suitable for risk assessment, risk management and decision analysis.
 * Implemented an optimization algorithm, Sequential Least Square Programming(SLSQP) using scipy.optimization
 
-[![](/Images/Portfolio.png)](https://portfolio-optomization-605bcecc5cc2.herokuapp.com/)
+
+  [![](/Images/Portfolio.png)](https://portfolio-optomization-605bcecc5cc2.herokuapp.com/)
 
 
 
@@ -25,4 +27,6 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
 * Performed Exploratory Data Analysis on Indian Premier League dataset containing 1.8 lakh records of each delivery.
 * Identified out Most Valuable Players and Teams a company should endorse for their products to increase their sales.
 * Identified key factors like toss results and fielding potential should be considered as they had impacts on match results
-[![](/Images/IPL.png)](https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes)
+
+
+  [![](/Images/IPL.png)](https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes)
