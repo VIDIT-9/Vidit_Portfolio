@@ -21,7 +21,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 
 
   <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
-  <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/images/portfolio.png" width="445" height="250">
+  <img src = "images/portfolio.png" width="445" height="250">
   </a>
 
 ## Project 3: [Data Analysis on IPL](https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD)
@@ -31,6 +31,6 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
 * Identified key factors like toss results and fielding potential should be considered as they had impacts on match results
 
 
-  <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes" target="_blank">
-    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/images/ipl.png" width="550" height="300">
+  <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes">
+    <img src = "images/ipl.png" width="550" height="300">
   </a>
