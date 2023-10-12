@@ -6,8 +6,8 @@ Developed content based recommendation system that provides movie suggestions ba
 * Created a basic Web application with user-friendly interface for enhanced user interaction using Streamlit.
 
   
-  <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com" target="_blank">
-    <img src = "/images/mrs.png" width="445" height="225">
+  <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com">
+    <img src = "./images/mrs.png" width="445" height="225">
   </a>
 
 
