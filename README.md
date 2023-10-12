@@ -5,7 +5,7 @@ Developed content based recommendation system that provides movie suggestions ba
 * Model was trained to find top-5 similar movies on the basis of distances between each vectors using Cosine similarity.
 * Created a basic Web application with user-friendly interface for enhanced user interaction using Streamlit.
 
-  ![](https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png)
+  ![](/Images/MRS.png)
 
 
 
@@ -16,4 +16,4 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 * Employed Monte Carlo algorithm as it is suitable for risk assessment, risk management and decision analysis.
 * Implemented an optimization algorithm, Sequential Least Square Programming(SLSQP) using scipy.optimization
 
-![](https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/Portfolio.png)
+![](/Images/Portfolio.png)
