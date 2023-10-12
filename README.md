@@ -25,3 +25,4 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
 * Performed Exploratory Data Analysis on Indian Premier League dataset containing 1.8 lakh records of each delivery.
 * Identified out Most Valuable Players and Teams a company should endorse for their products to increase their sales.
 * Identified key factors like toss results and fielding potential should be considered as they had impacts on match results
+[![](/Images/IPL.png)](https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes)
