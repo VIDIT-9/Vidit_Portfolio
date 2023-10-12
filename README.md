@@ -5,8 +5,10 @@ Developed content based recommendation system that provides movie suggestions ba
 * Model was trained to find top-5 similar movies on the basis of distances between each vectors using Cosine similarity.
 * Created a basic Web application with user-friendly interface for enhanced user interaction using Streamlit.
 
-
-  [![](/Images/MRS.png)](https://movies-recommendation-system-bbcd81475afd.herokuapp.com)
+  
+  <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com" target="_blank">
+    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png" width="890.4" height="500">
+  </a>
 
 
 
@@ -18,9 +20,9 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 * Implemented an optimization algorithm, Sequential Least Square Programming(SLSQP) using scipy.optimization
 
 
-  [![](/Images/Portfolio.png)](https://portfolio-optomization-605bcecc5cc2.herokuapp.com/)
-
-
+  <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/" target="_blank">
+    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/Portfolio.png" width="890.4" height="500">
+  </a>
 
 ## Project 3: [Data Analysis on IPL](https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD)
 Conducted Data Analysis on IPL matches to derive actionable insights and trends, contributing to strategic decision-making
@@ -29,4 +31,6 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
 * Identified key factors like toss results and fielding potential should be considered as they had impacts on match results
 
 
-  [![](/Images/IPL.png)](https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes)
+  <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes" target="_blank">
+    <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/IPL.png" width="890.4" height="500">
+  </a>
