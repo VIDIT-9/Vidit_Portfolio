@@ -24,7 +24,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
   <img src = "images/portfolio.png" width="445" height="250">
   </a>
 
-## Project 3: [Data Analysis on IPL](https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD)
+## Project 3: [Data Analysis on IPL](https://github.com/VIDIT-9/Sparks-foundation-internship)
 Conducted Data Analysis on IPL matches to derive actionable insights and trends, contributing to strategic decision-making
 * Performed Exploratory Data Analysis on Indian Premier League dataset containing 1.8 lakh records of each delivery.
 * Identified out Most Valuable Players and Teams a company should endorse for their products to increase their sales.
