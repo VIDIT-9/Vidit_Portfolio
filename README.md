@@ -9,7 +9,7 @@ Developed content based recommendation system that provides movie suggestions ba
     [<img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png" width="741" height="462" />](https://movies-recommendation-system-bbcd81475afd.herokuapp.com)
   </P>
   
-  [![](/Images/MRS.png)](https://movies-recommendation-system-bbcd81475afd.herokuapp.com)
+[![](/Images/MRS.png)](https://movies-recommendation-system-bbcd81475afd.herokuapp.com)
 
 
 
