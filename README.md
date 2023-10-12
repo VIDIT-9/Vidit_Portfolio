@@ -6,7 +6,7 @@ Developed content based recommendation system that provides movie suggestions ba
 * Created a basic Web application with user-friendly interface for enhanced user interaction using Streamlit.
 
 
-  <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png" width="1000" height="1000" />
+  <img src = "https://github.com/VIDIT-9/Vidit_Portfolio/blob/main/Images/MRS.png" width="988" height="616" />
   
   [![](/Images/MRS.png)](https://movies-recommendation-system-bbcd81475afd.herokuapp.com)
 
