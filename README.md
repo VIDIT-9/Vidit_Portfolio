@@ -34,3 +34,12 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
   <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/IPLAnalysis_16968349285830/IPLANALYSISDASHBOARD?publish=yes">
     <img src = "images/dashboard.png" width="550" height="300">
   </a>
+
+
+
+## Project 4: Credit Card Complaints
+
+  <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/CreditCardComplaints_16973124908490/FINANCIALCOMPLAINTS">
+    <img src = "images/Finance Dashboard.png" width="550" height="300">
+  </a>
+
