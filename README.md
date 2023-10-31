@@ -37,7 +37,7 @@ Conducted Data Analysis on IPL matches to derive actionable insights and trends,
 
 
 
-## Project 4: Credit Card Complaints
+## Project 4: Credit Card Complaints Dashboard
 
   <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/CreditCardComplaints_16973124908490/FINANCIALCOMPLAINTS">
     <img src = "images/Finance Dashboard.png" width="550" height="300">
