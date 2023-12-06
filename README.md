@@ -18,7 +18,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 * Implemented an optimization algorithm, Sequential Least Square Programming(SLSQP) using scipy.optimization
 
      <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
-  <img src = "images/portfolio.png" width="445" height="250">
+  <img src = "images/portfolio.png" width="500" height="275">
   </a>
 
 
@@ -31,7 +31,7 @@ Developed content based recommendation system that provides movie suggestions ba
 
   
    <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com">
-    <img src = "images/mrs.png" width="445" height="225">
+    <img src = "images/mrs.png" width="500" height="275">
   </a>
 
 
