@@ -28,11 +28,6 @@ Developed content based recommendation system that provides movie suggestions ba
 * Combined all important features (genres/keywords/actors/directors) into one column and converted them into vectors.
 * Model was trained to find top-5 similar movies on the basis of distances between each vectors using Cosine similarity.
 * Created a basic Web application with user-friendly interface for enhanced user interaction using Streamlit.
-
-  
-   <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com">
-    <img src = "images/mrs-white.png" width="600" height="250">
-  </a>
   
   <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com">
     <img src = "images/mrs.png" width="600" height="250">
