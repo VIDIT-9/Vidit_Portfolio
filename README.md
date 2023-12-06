@@ -1,4 +1,4 @@
-# Data Science Analytics
+# Data Science and Analytics
 
 ## Project 1: Financial Complaints Dashboard
 * abc
