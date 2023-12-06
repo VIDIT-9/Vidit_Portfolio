@@ -22,7 +22,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
   </a>
 
 
-## Project 3: [Movie Recommendation System](https://github.com/VIDIT-9/Recommender-System-TMDB-dataset)
+## Project 3: [Movies Recommendation System](https://github.com/VIDIT-9/Recommender-System-TMDB-dataset)
 Developed content based recommendation system that provides movie suggestions based on user preferences.
 * Merged two datasets of 4800 movies and dug out suitable features for our system and performed Data Preprocessing.
 * Combined all important features (genres/keywords/actors/directors) into one column and converted them into vectors.
