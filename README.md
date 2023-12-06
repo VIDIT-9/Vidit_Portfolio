@@ -18,7 +18,7 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 * Implemented an optimization algorithm, Sequential Least Square Programming(SLSQP) using scipy.optimization
 
      <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
-  <img src = "images/portfolio.png" width="500" height="275">
+  <img src = "images/portfolio2.png" width="500" height="275">
   </a>
 
 
