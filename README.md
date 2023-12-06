@@ -31,7 +31,7 @@ Developed content based recommendation system that provides movie suggestions ba
 
   
    <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com">
-    <img src = "images/mrs.png" width="600" height="250">
+    <img src = "images/mrs-white.png" width="600" height="250">
   </a>
 
 
