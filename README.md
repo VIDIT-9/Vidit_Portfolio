@@ -3,10 +3,10 @@
 
 
 ## Project 1: [Financial Complaints Analysis](https://github.com/VIDIT-9/Financial-Complaints-Analysis)
-Conducted Data Analysis on financial complaints dataset to identify the areas for improvement and aims to improve customer experience
-* Study a dataset containing 6 lakh+ complaints received by various finance companies over 5 Years (from Dec-2011 to Nov-2016)
-* Analyzed different attributes and compared last 5 years complaints to last 1 year to evaluate variation in previous years
-* Created an Interactive Dashboard using Tableau to enhance stakeholders' comprehension of the problem
+Conducted Data Analysis on financial complaints dataset to identify the areas for improvement and aims to improve customer experience.
+* Study a dataset containing 6 lakh+ complaints received by various finance companies over 5 Years (from Dec-2011 to Nov-2016).
+* Analyzed different attributes and compared last 5 years complaints to last 1 year to evaluate variation in previous years.
+* Created an Interactive Dashboard using Tableau to enhance stakeholders' comprehension of the problem.
   
   <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/CreditCardComplaints_16973124908490/FINANCIALCOMPLAINTS">
     <img src = "images/Finance Dashboard.png" width="600" height="300">
