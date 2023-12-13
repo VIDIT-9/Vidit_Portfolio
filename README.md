@@ -1,9 +1,10 @@
 # Data Science and Analytics
 
 ## Project 1: [Financial Complaints Analysis](https://github.com/VIDIT-9/Financial-Complaints-Analysis)
-* abc
-* def
-* ghi
+Conducted Data Analysis on financial complaints dataset to identify the areas for improvement and aims to improve customer experience
+* Study a dataset containing 6 lakh+ complaints received by various finance companies over 5 Years (from Dec-2011 to Nov-2016)
+* Analyzed different attributes and compared last 5 years complaints to last 1 year to evaluate variation in previous years
+* Created an Interactive Dashboard using Tableau to enhance stakeholders' comprehension of the problem
   
   <a href="https://public.tableau.com/app/profile/vidit.jain3529/viz/CreditCardComplaints_16973124908490/FINANCIALCOMPLAINTS">
     <img src = "images/Finance Dashboard.png" width="600" height="300">
@@ -15,7 +16,6 @@ Implemented a algorithm to find the optimal allocation of assets that aims to ma
 * Gathered real-time data of multiple stocks prices starting from FY'22 using python library to access Yahoo Finance API.
 * Calculated Sharpe Ratio which compares the return with risk using Expected Portfolio Returns and Volatility.
 * Employed Monte Carlo algorithm as it is suitable for risk assessment, risk management and decision analysis.
-* Implemented an optimization algorithm, Sequential Least Square Programming(SLSQP) using scipy.optimization
 
      <a href="https://portfolio-optomization-605bcecc5cc2.herokuapp.com/">
   <img src = "images/portfolio3.png" width="600" height="275">
@@ -27,7 +27,6 @@ Developed content based recommendation system that provides movie suggestions ba
 * Merged two datasets of 4800 movies and dug out suitable features for our system and performed Data Preprocessing.
 * Combined all important features (genres/keywords/actors/directors) into one column and converted them into vectors.
 * Model was trained to find top-5 similar movies on the basis of distances between each vectors using Cosine similarity.
-* Created a basic Web application with user-friendly interface for enhanced user interaction using Streamlit.
   
   <a href="https://movies-recommendation-system-bbcd81475afd.herokuapp.com">
     <img src = "images/mrs.png" width="600" height="250">
