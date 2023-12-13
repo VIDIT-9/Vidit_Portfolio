@@ -1,6 +1,6 @@
 # Data Science and Analytics
 
-## Project 1: Financial Complaints Dashboard
+## Project 1: [Financial Complaints Dashboard](https://github.com/VIDIT-9/Financial-Complaints-Analysis)
 * abc
 * def
 * ghi
